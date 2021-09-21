@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![download20210902194753](https://user-images.githubusercontent.com/62031286/134257795-76ac004a-f7e4-481a-ad52-9e0e5500172a.png)
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **ArthurFariaPeixoto/ArthurFariaPeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

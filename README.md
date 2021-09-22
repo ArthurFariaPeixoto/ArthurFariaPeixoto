@@ -15,5 +15,16 @@
 - 🎯 Interesses: Java, HTML, JavaScript. 
 - 🎮 Fã de jogos e animes em geral.
 
+
+### Contact :phone:
+
+<p align="left">
+    <a href="mailto:mateusaraujo996@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurfpeixoto@gmail.com">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/arthur_fariap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
+
 ![Snake animation](https://github.com/ArthurFariaPeixoto/ArthurFariaPeixoto/blob/output/github-contribution-grid-snake.svg)
 

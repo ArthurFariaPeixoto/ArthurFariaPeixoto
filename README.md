@@ -11,7 +11,7 @@
 
 ### Sobre mim
 
-- 🎓 Graduando em Engenharia de Software na **Universidade Federal de Goiás**.
+- 🎓 Graduando em Engenharia de Software na <a href = https://www.ufg.br/> **Universidade Federal de Goiás**</a>.
 - 🎯 Interesses: Java, HTML, JavaScript. 
 - 🎮 Fã de jogos e animes em geral.
 

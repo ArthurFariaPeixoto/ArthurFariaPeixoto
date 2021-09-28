@@ -16,7 +16,7 @@
 - 🎮 Fã de jogos e animes em geral.
 
 
-### Contact :phone:
+### Contato :phone:
 
 <p align="left">
     <a href="mailto:arthurfpeixoto@gmail.com">

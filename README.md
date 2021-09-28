@@ -1,5 +1,9 @@
 # Olá, meu nome é Arthur!
 
+---
+
+### Algumas estatísticas 
+
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFariaPeixoto&layout=compact&theme=synthwave">

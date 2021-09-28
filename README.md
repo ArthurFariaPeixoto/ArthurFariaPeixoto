@@ -1,4 +1,4 @@
-## Olá, meu nome é Arthur!
+# Olá, meu nome é Arthur!
 
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -6,12 +6,15 @@
     </a>
 </p>
 
+---
+
 ### Sobre mim
 
 - 🎓 Graduando em Engenharia de Software na <a href = https://www.ufg.br/> **Universidade Federal de Goiás**</a>.
 - 🎯 Interesses: Java, HTML, JavaScript. 
 - 🎮 Fã de jogos e animes em geral.
 
+---
 
 ### Contato :phone:
 
@@ -24,6 +27,8 @@
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </p>
+
+---
 
 ![Snake animation](https://github.com/ArthurFariaPeixoto/ArthurFariaPeixoto/blob/output/github-contribution-grid-snake.svg)
 

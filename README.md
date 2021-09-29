@@ -2,35 +2,38 @@
 
 ---
 
-### Algumas estatísticas 
-
-<p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFariaPeixoto&layout=compact&theme=synthwave">
-    </a>
-</p>
-
----
-
-### Sobre mim  :chart_with_upwards_trend:
-
-- 🎓 Graduando em Engenharia de Software na <a href = https://www.ufg.br/> **Universidade Federal de Goiás**</a>.
-- 🎯 Interesses: Java, HTML, JavaScript. 
-- 🎮 Fã de jogos e animes em geral.
+<details> 
+    <summary> <b> Algumas estatísticas 📈 </b> </summary>
+        <p align="left">
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFariaPeixoto&layout=compact&theme=synthwave">
+                <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurFariaPeixoto&show_icons=true&theme=synthwave">
+            </a>
+        </p>
+</details>
 
 ---
 
-### Contato :phone:
+<details> 
+    <summary> <b> Sobre mim </b> </summary>
+        <li>🎓 Graduando em Engenharia de Software na <a href = https://www.ufg.br/> <b>Universidade Federal de Goiás</b></a>. </li>
+        <li>🎯 Interesses: Java, HTML, JavaScript. </li>
+        <li>🎮 Fã de jogos e animes em geral. </li>
+</details>
 
-<p align="left">
-    <a href="mailto:arthurfpeixoto@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurfpeixoto@gmail.com">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/arthur_fariap/">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-</p>
+---
+
+<details>
+    <summary> <b> Contato ☎️ </b> </summary> 
+        <li> <a href="mailto:arthurfpeixoto@gmail.com">
+                <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurfpeixoto@gmail.com">
+             </a> 
+        </li>
+        <li> <a href="https://www.instagram.com/arthur_fariap/">
+                <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+             </a>
+        </li>
+</details>
 
 ---
 

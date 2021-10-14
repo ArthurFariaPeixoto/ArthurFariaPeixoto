@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
         </li>
         <li> <a href="https://www.linkedin.com/in/arthur-faria-peixoto-793340207/">
-        <img src=""
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         </li>
 </details>
 

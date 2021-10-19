@@ -24,7 +24,7 @@
 ---
 
 <details>
-    <summary> <b> Contato ☎️ </b> </summary> 
+    <summary> <b> Contato ☎️ </b> </summary
         <li> <a href="mailto:arthurfpeixoto@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurfpeixoto@gmail.com"></a></li>
         <li> <a href="https://www.instagram.com/arthur_fariap/">

@@ -3,6 +3,16 @@
 ---
 
 <details> 
+    <summary> <b> Sobre mim  👀 </b> </summary>
+        <li>🎓 Graduando em Engenharia de Software na <a href = "https://www.ufg.br/"> <b>Universidade Federal de Goiás</b></a>. </li>
+        <li>🎯 Interesses: Java, HTML, JavaScript, SQL. </li>
+        <li>🎮 Fã de jogos e animes em geral. </li>
+        <li>📄 Mais do meu trabalho <a href = "https://arthurfariapeixoto.github.io/My_portfolio/"><b>aqui</b></a></li>
+</details>
+
+---
+
+<details> 
     <summary> <b> Algumas estatísticas 📈 </b> </summary>
     <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,16 +20,6 @@
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFariaPeixoto&layout=compact&theme=synthwave&custom_title=Linguagens Usadas">
     </a>
     </p>
-</details>
-
----
-
-<details> 
-    <summary> <b> Sobre mim  👀 </b> </summary>
-        <li>🎓 Graduando em Engenharia de Software na <a href = "https://www.ufg.br/"> <b>Universidade Federal de Goiás</b></a>. </li>
-        <li>🎯 Interesses: Java, HTML, JavaScript, SQL. </li>
-        <li>🎮 Fã de jogos e animes em geral. </li>
-        <li>📄 Mais do meu trabalho <a href = "https://arthurfariapeixoto.github.io/My_portfolio/"><b>aqui</b></a></li>
 </details>
 
 ---
@@ -34,7 +34,6 @@
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     
 </details>
-
 
 ---
 

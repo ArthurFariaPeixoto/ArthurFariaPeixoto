@@ -27,10 +27,10 @@
     <summary> <b> Contato ☎️ </b> </summary>
         <a href="mailto:arthurfpeixoto@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurfpeixoto@gmail.com"></a>
-        <li> <a href="https://www.instagram.com/arthur_fariap/">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></li>
-        <li> <a href="https://www.linkedin.com/in/arthur-faria-peixoto-793340207/">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></li>
+        <a href="https://www.instagram.com/arthur_fariap/">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/arthur-faria-peixoto-793340207/">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     
 </details>
 

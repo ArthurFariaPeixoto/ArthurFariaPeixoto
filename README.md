@@ -12,7 +12,7 @@
 
 ---
 
-<details> 
+<!-- <details> 
     <summary> <b> Algumas estatísticas 📈 </b> </summary>
     <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,7 +20,7 @@
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFariaPeixoto&layout=compact&theme=synthwave&custom_title=Linguagens Usadas">
     </a>
     </p>
-</details>
+</details> -->
 
 ---
 

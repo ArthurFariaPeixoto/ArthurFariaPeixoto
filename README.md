@@ -20,9 +20,9 @@
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFariaPeixoto&layout=compact&theme=synthwave&custom_title=Linguagens Usadas">
     </a>
     </p>
-</details> -->
+</details>
 
----
+--- -->
 
 <details>
     <summary> <b> Contato ☎️ </b> </summary>

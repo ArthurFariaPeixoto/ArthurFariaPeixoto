@@ -12,17 +12,17 @@
 
 ---
 
-<!-- <details> 
-    <summary> <b> Algumas estatísticas 📈 </b> </summary>
-    <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ArthurFariaPeixoto&show_icons=true&theme=synthwave&custom_title=Meus Status no GitHub">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFariaPeixoto&layout=compact&theme=synthwave&custom_title=Linguagens Usadas">
-    </a>
-    </p>
+<details>
+<summary><b> Algumas estatísticas 📈 </b></summary>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFariaPeixoto&show_icons=true&theme=transparent)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFariaPeixoto&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
---- -->
+--- 
 
 <details>
     <summary> <b> Contato ☎️ </b> </summary>

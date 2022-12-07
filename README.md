@@ -4,9 +4,12 @@
 
 <details> 
     <summary> <b> Sobre mim  👀 </b> </summary>
+    <ul>
         <li>🎓 Graduando em Engenharia de Software na <a href = "https://www.ufg.br/"> <b>Universidade Federal de Goiás</b></a>. </li>
         <li>🎯 Interesses: Java, HTML, JavaScript, SQL. </li>
         <li>🎮 Fã de jogos e animes em geral. </li>
+    </ul>
+    <h4>Você pode acessar meu portfólio clicando <a href="https://arthurfariapeixoto.github.io/My_portfolio/" target="_blank">aqui</a>.</h4>
         
 </details>
 

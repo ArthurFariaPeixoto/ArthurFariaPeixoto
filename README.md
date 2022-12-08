@@ -9,21 +9,17 @@
         <li>🎯 Interesses: Java, HTML, JavaScript, SQL. </li>
         <li>🎮 Fã de jogos e animes em geral. </li>
     </ul>
-<!--     <h4>Você pode acessar meu portfólio clicando <a href="https://arthurfariapeixoto.github.io/My_portfolio/" target="_blank">aqui</a>.</h4> -->
+    <h4>Você pode acessar meu portfólio clicando <a href="https://arthurfariapeixoto.github.io/My_portfolio/" target="_blank">aqui</a>.</h4>
         
 </details>
 
 ---
 
-<details>
-<summary><b> Algumas estatísticas 📈 </b></summary>
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFariaPeixoto&show_icons=true&theme=transparent)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFariaPeixoto&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+<b> Algumas estatísticas 📈 </b>
+<div>
+  <img height="167em"  src="https://github-readme-stats.vercel.app/api?username=ArthurFariaPeixoto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFariaPeixoto&layout=compact&langs_count=10&theme=transparent"/>
+</div>
 
 --- 
 

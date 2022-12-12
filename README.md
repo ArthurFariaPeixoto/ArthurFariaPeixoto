@@ -22,7 +22,7 @@
 
 <b> Contato ☎️ </b>
     <div>
-        <a href="mailto:arthurfpeixoto@gmail.com?Subject=Ol%E1%20Arthur&Body=Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato....">
+        <a href="mailto:arthurfpeixoto@gmail.com?Subject=Bom%20dia,%20Arthur&Body=Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato....">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurfpeixoto@gmail.com"></a>
         <a href="https://www.instagram.com/arthur_fariap/">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>

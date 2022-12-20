@@ -12,13 +12,13 @@
     
 <h4>Você pode acessar meu portfólio clicando <a href="https://arthurfariapeixoto.github.io/My_portfolio/" target="_blank">aqui</a>.</h4>
 
-<!-- ---
+---
 
 <b> Algumas estatísticas 📈 </b>
 <div>
   <img height="167em"  src="https://github-readme-stats.vercel.app/api?username=ArthurFariaPeixoto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFariaPeixoto&layout=compact&langs_count=10&theme=transparent"/>
-</div> -->
+</div>
 
 --- 
 

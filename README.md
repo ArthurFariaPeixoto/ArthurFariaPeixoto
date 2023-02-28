@@ -5,7 +5,7 @@
 <b> Sobre mim  👀 </b>
     <ul>
         <li>🎓 Graduando em Engenharia de Software na <a href = "https://www.ufg.br/"> <b>Universidade Federal de Goiás</b></a>. </li>
-        <li>🎯 Interesses: React, Java, PHP, JavaScript, SQL. </li>
+        <li>🎯 Interesses: React, Java, PHP, JavaScript, SQL e Desenvolvimento de jogos. </li>
         <li>🎮 Fã de jogos e animes em geral. </li>
     </ul>
     
